@@ -1,0 +1,88 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 1440px;
+  height: 1024px;
+  background-color: black;
+}
+.screenframe {
+  position: absolute;
+  left: 4.86%;
+  right: 30.21%;
+  top: 3.12%;
+  bottom: 46.48%;
+}
+.screen {
+  position: absolute;
+  left: 6.6%;
+  right: 31.94%;
+  top: 5.57%;
+  bottom: 48.83%;
+}
+.panel {
+  position: absolute;
+  width: 1300px;
+  height: 346px;
+  left: 70px;
+  top: 626px;
+}
+.dangerbottom {
+  border-radius: 50%;
+  position: absolute;
+  width: 144px;
+  height: 144px;
+  left: 1068px;
+  top: 32px;
+  background: #C4C4C4;
+}
+.danger {
+  border-radius: 50%;
+  position: absolute;
+  width: 122px;
+  height: 122px;
+  left: 1079px;
+  top: 43px;
+  background: #F0E050;
+}
+.sound {
+  position: absolute;
+  width: 144px;
+  height: 151px;
+  left: 1068px;
+  top: 215px;
+}
+.nextbottom {
+  position: absolute;
+  width: 144px;
+  height: 143.21px;
+  left: 1068px;
+  top: 405px;
+  background: #FFD337;
+  border-radius: 25px;
+}
+.next1 {
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  left: 1091.61px;
+  top: 428.61px;
+  background: #A8A8A8;
+  border-radius: 50%;
+}
+.next {
+  position: absolute;
+  width: 88.13px;
+  height: 88.13px;
+  left: 1095.54px;
+  top: 432.54px;
+  background: #FF0000;
+  border-radius: 50%;
+}
+.sign {
+  position: absolute;
+  width: 78.69px;
+  height: 10.23px;
+  left: 1100.26px;
+  top: 471.88px;
+
+}
